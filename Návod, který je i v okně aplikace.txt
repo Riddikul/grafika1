@@ -1,0 +1,3 @@
+Při stisku a tažení myší se kreslí čárkovaná přímka, po povolení tlačíka se vykreslí plná přímka.
+Klikáním levým tlačítkem se vybírají body pro polygon, klikem pravým tlačítkem se polygon vykreslí.
+Klávesa "C" vše maže.
